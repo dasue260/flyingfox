@@ -1,0 +1,32 @@
+body
+{
+    background-image: url(https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_bats.jpg);
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+image
+{
+    
+    height: 200px;
+    border-radius: 50%;
+}
+#profile
+{
+    height: 70vh;
+    width: 500px;
+    background-color: skyblue;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    box-shadow: 10px 10px;
+
+}
+p{
+    border: 1px solid black;
+    text-shadow: 1px 1px;
+
+}
